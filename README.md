@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I am a 3rd-year student at Moscow State University, Faculty of Applied Mathematics and Computer Science. Currently, I am a Data Science intern at SaiKet Systems and working in Internet Intelligence.<br>🎯 I’m currently working on: Business review analysis and ML projects.<br>🤝 I’m looking to collaborate on: Data Science and Machine Learning applications.<br>💬 Ask me about: Python, C++, C, data visualization, and GitHub workflows.<br>🌱 I’m currently learning: Machine Learning and feature engineering
+🎓 I am a 3rd-year student at Moscow State University, Faculty of Applied Mathematics and Computer Science. Currently, I am a Data Science intern at SaiKet Systems and in Intern Intelligence.<br>🎯 I’m currently working on: Business review analysis and ML projects.<br>🤝 I’m looking to collaborate on: Data Science and Machine Learning applications.<br>💬 Ask me about: Python, C++, C, data visualization, and GitHub workflows.<br>🌱 I’m currently learning: Machine Learning and feature engineering
 
 
 ## 🌐 Socials:
